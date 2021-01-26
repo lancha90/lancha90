@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on ...
+
+- Fintech
+
+## 🛠 Skills
+
+- Kotlin
+- Java
+- Kafka
+- GoLang
+
 ## 🌱 I’m currently learning
 
 - Blockchaing
